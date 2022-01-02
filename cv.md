@@ -25,5 +25,6 @@ At the moment there is no experience in Front-End development
 **###Education**
 Volga University named after V.N. Tatishcheva (VUiT)
 **###Languages:**
+A1
 
 
